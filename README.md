@@ -24,7 +24,7 @@ I thrive in collaborative environments and enjoy working with cross-functional t
 
 <h4>Skills: HTML / CSS / JAVASCRIPT / REACT / BOOTSTRAP / JQUERY / PHP / MYSQL / WORDPRESS DEVELOPMENT.</h4>
 
-- 🔭 I’m currently working on Web Designer | Web Developer | WordPress Developer 
+- 🔭 I’m currently working on Web Designer | Web Developer | WordPress Developer. 
 - 🌱 I’m currently learning JavaScript. 
 - 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about Web Designer, Web Developer, WordPress Development. <br><br>
