@@ -6,15 +6,15 @@
 👋 Hello! I’m Asif Iqbal, a passionate Web Designer, Web Developer, and WordPress Expert. My journey in the digital realm has been an exciting one, and I thrive on creating visually stunning and user-friendly experiences.
 As a freelancer, I've successfully completed over 500 projects for clients since 2020. My dedication to excellence and commitment to delivering high-quality work have earned me a reputation for reliability and professionalism in the industry.
 
-🌐 Top Skills:
+🌐 Top Skills:<br>
  ☛ Web Design: Crafting beautiful interfaces that blend aesthetics with functionality.<br>
- ☛ Responsive Web Design: Ensuring seamless experiences across devices.
- ☛ Web Development: Bringing ideas to life through code.
- ☛ WordPress Website Design: Transforming concepts into captivating websites.
- ☛ WordPress Website Customization: Tailoring WordPress themes to perfection.
- ☛ JavaScript: Adding interactivity and dynamism.
- ☛ PHP: Building robust backends.
- ☛ MySQL: Managing databases efficiently.
+ ☛ Responsive Web Design: Ensuring seamless experiences across devices.<br>
+ ☛ Web Development: Bringing ideas to life through code.<br>
+ ☛ WordPress Website Design: Transforming concepts into captivating websites.<br>
+ ☛ WordPress Website Customization: Tailoring WordPress themes to perfection.<br>
+ ☛ JavaScript: Adding interactivity and dynamism.<br>
+ ☛ PHP: Building robust backends.<br>
+ ☛ MySQL: Managing databases efficiently.<br>
 
 I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life. Whether it's designing visually appealing websites, developing custom solutions, or optimizing WordPress platforms, I'm always eager to tackle new challenges and exceed expectations.
 
