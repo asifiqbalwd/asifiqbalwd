@@ -1,6 +1,6 @@
 ![I am Web Designer, Web Developer, WordPress Developer.](https://media.licdn.com/dms/image/D4D16AQE_tW15Z92jhw/profile-displaybackgroundimage-shrink_350_1400/0/1707940418486?e=1720656000&v=beta&t=07pYmam2tNuVIbXUauIDWhhYtATRj90Kg9qpcAkQiwk)
 
-### Hi there 👋, my name is Asif iqbal.
+### Hi there 👋, my name is Asif Iqbal.
 #### I am Web Designer, Web Developer, WordPress Developer.
 
 👋 Hello! I’m Asif Iqbal, a passionate Web Designer, Web Developer, and WordPress Expert. My journey in the digital realm has been an exciting one, and I thrive on creating visually stunning and user-friendly experiences.
