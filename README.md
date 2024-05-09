@@ -7,7 +7,7 @@
 As a freelancer, I've successfully completed over 500 projects for clients since 2020. My dedication to excellence and commitment to delivering high-quality work have earned me a reputation for reliability and professionalism in the industry.
 
 🌐 Top Skills:
- ☛ Web Design: Crafting beautiful interfaces that blend aesthetics with functionality.
+ ☛ Web Design: Crafting beautiful interfaces that blend aesthetics with functionality.<br>
  ☛ Responsive Web Design: Ensuring seamless experiences across devices.
  ☛ Web Development: Bringing ideas to life through code.
  ☛ WordPress Website Design: Transforming concepts into captivating websites.
