@@ -8,21 +8,21 @@ As a freelancer, I've successfully completed over 500 projects for clients since
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-🌐 Top Skills:<br>
- ☛ Web Design: Crafting beautiful interfaces that blend aesthetics with <span style="padding-left:10;"></span>functionality.<br>
- ☛ Responsive Web Design: Ensuring seamless experiences across devices.<br>
- ☛ Web Development: Bringing ideas to life through code.<br>
- ☛ WordPress Website Design: Transforming concepts into captivating websites.<br>
- ☛ WordPress Website Customization: Tailoring WordPress themes to perfection.<br>
- ☛ JavaScript: Adding interactivity and dynamism.<br>
- ☛ PHP: Building robust backends.<br>
- ☛ MySQL: Managing databases efficiently.<br>
+🌐 <h5>Top Skills:</h5><br>
+ ☛ <strong>Web Design:</strong> Crafting beautiful interfaces that blend aesthetics with functionality.<br>
+ ☛ <strong>Responsive Web Design:</strong> Ensuring seamless experiences across devices.<br>
+ ☛ <strong>Web Development:</strong> Bringing ideas to life through code.<br>
+ ☛ <strong>WordPress Website Design:</strong> Transforming concepts into captivating websites.<br>
+ ☛ <strong>WordPress Website Customization:</strong> Tailoring WordPress themes to perfection.<br>
+ ☛ <strong>JavaScript:</strong> Adding interactivity and dynamism.<br>
+ ☛ <strong>PHP:</strong> Building robust backends.<br>
+ ☛ <strong>MySQL:</strong> Managing databases efficiently.<br>
 
  
 
 I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life. Whether it's designing visually appealing websites, developing custom solutions, or optimizing WordPress platforms, I'm always eager to tackle new challenges and exceed expectations.
 
-Skills: HTML / CSS / JAVASCRIPT / REACT / BOOTSTRAP / JQUERY / PHP / MYSQL / WORDPRESS DEVELOPMENT
+<h5>Skills: HTML / CSS / JAVASCRIPT / REACT / BOOTSTRAP / JQUERY / PHP / MYSQL / WORDPRESS DEVELOPMENT.</h5>
 
 - 🔭 I’m currently working on Web Designer | Web Developer | WordPress Developer 
 - 🌱 I’m currently learning JavaScript. 
