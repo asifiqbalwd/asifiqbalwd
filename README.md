@@ -16,7 +16,7 @@ As a freelancer, I've successfully completed over 500 projects for clients since
  ☛ PHP: Building robust backends.<br>
  ☛ MySQL: Managing databases efficiently.<br>
 
- <img align="right" alt="coding" width="400" sec="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+ <img align="right" alt="coding" width="400" sec="[https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)">
 
 I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life. Whether it's designing visually appealing websites, developing custom solutions, or optimizing WordPress platforms, I'm always eager to tackle new challenges and exceed expectations.
 
