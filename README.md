@@ -8,7 +8,7 @@ As a freelancer, I've successfully completed over 500 projects for clients since
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-🌐 <h4>Top Skills:</h4><br>
+🌐 <strong>Top Skills:</strong><br>
  ☛ <strong>Web Design:</strong> Crafting beautiful interfaces that blend aesthetics with functionality.<br>
  ☛ <strong>Responsive Web Design:</strong> Ensuring seamless experiences across devices.<br>
  ☛ <strong>Web Development:</strong> Bringing ideas to life through code.<br>
