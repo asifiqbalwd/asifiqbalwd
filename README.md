@@ -4,7 +4,7 @@
 #### I am Web Designer, Web Developer, WordPress Developer.<br>
 
 👋 Hello! I’m Asif Iqbal, a passionate Web Designer, Web Developer, and WordPress Expert. My journey in the digital realm has been an exciting one, and I thrive on creating visually stunning and user-friendly experiences.
-As a freelancer, I've successfully completed over 500 projects for clients since 2020. My dedication to excellence and commitment to delivering high-quality work have earned me a reputation for reliability and professionalism in the industry.<br>
+As a freelancer, I've successfully completed over 500 projects for clients since 2020. My dedication to excellence and commitment to delivering high-quality work have earned me a reputation for reliability and professionalism in the industry.<br><br>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
