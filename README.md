@@ -16,7 +16,7 @@ As a freelancer, I've successfully completed over 500 projects for clients since
  ☛ <strong>WordPress Website Customization:</strong> Tailoring WordPress themes to perfection.<br>
  ☛ <strong>JavaScript:</strong> Adding interactivity and dynamism.<br>
  ☛ <strong>PHP:</strong> Building robust backends.<br>
- ☛ <strong>MySQL:</strong> Managing databases efficiently.<br>
+ ☛ <strong>MySQL:</strong> Managing databases efficiently.<br><br>
 
  
 
